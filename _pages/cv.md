@@ -9,34 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="/files/Tyler_Chinsky_CV.pdf" type="application/pdf" />
+
+
+<!-- In short:
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Bioinformatics and Computational Biology, Johns Hopkins University, expected 2024
+* B.S. in Bioinformatics and Computational Biology, University at Buffalo SUNY, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2022 - Present: Computational Biologist
+  * Dana-Farber Cancer Institute
+  * Understanding the genetic architecture of breast cancer in understudied population using machine learning approaches
+  * Supervisor: Saud Aldubayan, Melissa Hughes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* March 2020 - June 2021: Research Assistant
+  * Northeastern University
+  * Developed and applied machine learning techniques to identify potential biomarkers and interventions for gestational diabetes among first-time mom
+  * Supervisor: Predrag Radivojac
 
-Publications
+* October 2020 - December 2020: Data Scientist Fellow
+  * National Institute of Allergy and Infectious Diseases
+  * Automated the database of Genotypes and Phenotypes (dbGaP) usage reporting pipeline 
+  * Supervisor: Christopher Marcum
+
+* July 2019 - December 2019: Software Engineer at Chewy
+
+* July 2018 - December 2018: Front-end Engineer at BlockTEST -->
+
+---
+<a href="#top">Back to top</a>
+<br/>
+Last update: 2022-11-28
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +62,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
