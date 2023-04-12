@@ -15,7 +15,7 @@ This page features conference abstracts where I am one of the authors. For full-
 
 2023
 
-1. <ins> Landscape and impact of germline pathogenic variants (PVs) in metastatic hormone sensitive prostate cancer (mHSPC): ancillary study of E3805 CHAARTED</ins>. Anis A Hamid, **Tyler M. Chinsky**, Matías Vergara, Emily Grist, Gerhardt Attard, Eliezer Van Allen, Saud AlDubayan, Christopher J Sweeney.<span style="color:blue"> American Society of Clinical Oncology (ASCO) 2023 Meeting</span> (Submitted November 2022)
+1. <ins> Landscape and impact of germline pathogenic variants (PVs) in metastatic hormone sensitive prostate cancer (mHSPC): ancillary study of E3805 CHAARTED</ins>. <em>Anis A Hamid, **Tyler M. Chinsky**, Matías Vergara, Emily Grist, Gerhardt Attard, Eliezer Van Allen, Saud AlDubayan, Christopher J Sweeney</em>.<span style="color:blue"> American Society of Clinical Oncology (ASCO) 2023 Meeting</span> (Submitted November 2022)
 
 <br/>
 
@@ -23,7 +23,7 @@ This page features conference abstracts where I am one of the authors. For full-
 
 2022
   
-1. <ins> Investigation of transcriptionally regulated differential gene expression as a potential protection signature in the Pemphigus vulgaris disease model </ins>. <em><span style="color:red">Tyler M. Chinsky (P)</span>), Ricky Chen, Sarah Holan, Harshitha B. Suresha, Kristina R. Sieffert, Animesh A. Sinha.<span style="color:brown"> Poster Presentation</span>,<span style="color:blue"> SUNY University at Buffalo Jacobs School of Medicine and Biomedical Sciences Research Symposium 2022</span>, (January 2022) [Link to Poster](/posters/)
+1. <ins> Investigation of transcriptionally regulated differential gene expression as a potential protection signature in the Pemphigus vulgaris disease model </ins>. <em><span style="color:red">Tyler M. Chinsky (P)</span>), Ricky Chen, Sarah Holan, Harshitha B. Suresha, Kristina R. Sieffert, Animesh A. Sinha</em>.<span style="color:brown"> Poster Presentation</span>,<span style="color:blue"> SUNY University at Buffalo Jacobs School of Medicine and Biomedical Sciences Research Symposium 2022</span>, (January 2022) [Link to Poster](/posters/)
 
 
 <br/>
