@@ -25,7 +25,9 @@ This page features full-length papers where I am one of the authors. For confere
 
 1. <ins>The C. elegans OCTR-1 and Human Alpha-2A Adrenergic Receptors are Methylated within the Third Intracellular Loop by Human PRMT5 in vitro</ins>. <em> Alexander Bowitch, **Tyler M. Chinsky**, Michael C. Yu, Denise M. Ferkey<sup>\*</sup></em>. <span style="color:blue">microPublication Biology</span>, [doi:10.17912/micropub.biology.000546](https://doi.org/10.17912/micropub.biology.000546) (Published March 2022)
 
-2. <ins>Whole Genome Sequencing and Annotation of Five Antibiotic Resistant Bacteria Isolated from the Surfaces of Smartphones, An Inquiry Based Laboratory Exercise in a Genomics Undergraduate Course at the Rochester Institute of Technology</ins>. <em>2.	Anutthaman Parthasarathy, Narayan H. Wong, Amanda N. Weiss, Susan Tian, Sara E. Ali, Nicole T. Cavanaugh, **Tyler M. Chinsky**, Chelsea E. Cramer, Aditya Gupta, Rakshanda Jha, Loryn K. Johnson, Elizabeth D. Tuason, Lauren M. Klafehn, Varada Krishnadas, Ryan J. Musich, Jennifer M. Pfaff, Spencer C. Richman, Alexandria J. Shumway, André O. Hudson<sup>\*</sup></em>. <span style="color:blue">Journal of Genomics</span>, [https://doi.org/10.1016/j.ajhg.2022.04.007](https://doi.org/10.7150/jgen.31911)  (Published May 2022)
+2019
+
+2. <ins>Whole Genome Sequencing and Annotation of Five Antibiotic Resistant Bacteria Isolated from the Surfaces of Smartphones, An Inquiry Based Laboratory Exercise in a Genomics Undergraduate Course at the Rochester Institute of Technology</ins>. <em>2.	Anutthaman Parthasarathy, Narayan H. Wong, Amanda N. Weiss, Susan Tian, Sara E. Ali, Nicole T. Cavanaugh, **Tyler M. Chinsky**, Chelsea E. Cramer, Aditya Gupta, Rakshanda Jha, Loryn K. Johnson, Elizabeth D. Tuason, Lauren M. Klafehn, Varada Krishnadas, Ryan J. Musich, Jennifer M. Pfaff, Spencer C. Richman, Alexandria J. Shumway, André O. Hudson<sup>\*</sup></em>. <span style="color:blue">Journal of Genomics</span>, [https://doi.org/10.1016/j.ajhg.2022.04.007](https://doi.org/10.7150/jgen.31911)  (Published February 2019)
 
 <br/>
 
