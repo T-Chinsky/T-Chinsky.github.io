@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/Tyler_Chinsky_CV.pdf" type="application/pdf" />
+<embed src="/files/Chinsky_Tyler_CV_APR2023.pdf" type="application/pdf" />
 
 
 <!-- In short:
