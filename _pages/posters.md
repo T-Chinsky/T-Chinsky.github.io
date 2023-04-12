@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## University at Buffalo Jacobs School of Medicine and Biomedical Sciences Symposium 
+## University at Buffalo Jacobs School of Medicine and Biomedical Sciences Symposium 2022
 
 ### Title: Investigation of transcriptionally regulated differential gene expression as a potentital protection signature in the Pemphigus vulgaris disease model
 
