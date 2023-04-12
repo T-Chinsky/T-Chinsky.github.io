@@ -9,20 +9,22 @@ author_profile: true
 
 This page features conference abstracts where I am one of the authors. For full-length publications see [Publications](/publications/)
 
-You can also find my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-
 <span style="color:red">First / Joint First Author</span>; **Co-author**; \# Joint first authors; \* Corresponding author(s); <span style="color:blue">Conference</span>; (P) Presenter; <span style="color:green">Oral Presentation</span>; <span style="color:brown">Poster Presentation</span>;
 
 # Submitted
 
 2023
 
-1. <ins> Patient-partnered Research Enables Germline Characterization of Angiosarcoma Predisposition Genes </ins>, <em><span style="color:red">**Hoyin Chu**</span>, Marissa Hollyer, Seunghun Han, Sabrina Y. Camp, Riaz Gillani, Eliezer Van Allen,
-Nikhil Wagle, Corrie Painter, Saud H AlDubayan,<span style="color:blue"> American Association for Cancer Research (AACR) annual meeting 2023</span> (Submitted November 2022)
+1. <ins> Landscape and impact of germline pathogenic variants (PVs) in metastatic hormone sensitive prostate cancer (mHSPC): ancillary study of E3805 CHAARTED</ins>. Anis A Hamid, **Tyler M. Chinsky**, Matías Vergara, Emily Grist, Gerhardt Attard, Eliezer Van Allen, Saud AlDubayan, Christopher J Sweeney.<span style="color:blue"> American Society of Clinical Oncology (ASCO) 2023 Meeting</span> (Submitted November 2022)
 
 <br/>
 
 # Peer-Reviewed
+
+2022
+  
+1. <ins> Investigation of transcriptionally regulated differential gene expression as a potential protection signature in the Pemphigus vulgaris disease model </ins>. <em><span style="color:red">Tyler M. Chinsky (P)</span>), Ricky Chen, Sarah Holan, Harshitha B. Suresha, Kristina R. Sieffert, Animesh A. Sinha.<span style="color:brown"> Poster Presentation</span>,<span style="color:blue"> SUNY University at Buffalo Jacobs School of Medicine and Biomedical Sciences Research Symposium 2022</span>, (January 2022) [Link to Poster](/posters/)
+
 
 <br/>
 
