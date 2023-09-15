@@ -13,13 +13,13 @@ This page features conference abstracts where I am one of the authors. For full-
 
 # Submitted
 
-2023
-
-1. <ins> Landscape and impact of germline pathogenic variants (PVs) in metastatic hormone sensitive prostate cancer (mHSPC): ancillary study of E3805 CHAARTED</ins>. <em>Anis A Hamid, **Tyler M. Chinsky**, Matías Vergara, Emily Grist, Gerhardt Attard, Eliezer Van Allen, Saud AlDubayan, Christopher J Sweeney</em>.<span style="color:blue"> American Society of Clinical Oncology (ASCO) 2023 Meeting</span> (Submitted November 2022)
-
 <br/>
 
 # Peer-Reviewed
+
+2023
+
+1. <ins> Landscape and impact of germline pathogenic variants (PVs) in metastatic hormone sensitive prostate cancer (mHSPC): ancillary study of E3805 CHAARTED</ins>. <em>Anis A Hamid, **Tyler M. Chinsky**, Matías Vergara, Emily Grist, Gerhardt Attard, Eliezer Van Allen, Saud AlDubayan, Christopher J Sweeney</em>. *Journal of Clinical Oncology, 41, 16_suppl, 5082-5082*. DOI: 10.1200/JCO.2023.41.16_suppl.5082  <span style="color:blue"> American Society of Clinical Oncology (ASCO) 2023 Meeting</span> (Submitted November 2022)
 
 2022
   
