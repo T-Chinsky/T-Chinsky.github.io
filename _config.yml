@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tyler Chinsky"
-  avatar           : "chinsky_profile.jpeg"
+  avatar           : "profile_picture.jpeg"
   bio              : "Computational Biologist with background in statistics and genomics. Interested in the application and development of computational methods to answer questions in cancer genomics."
   location         : "Buffalo, NY"
   employer         : "University at Buffalo"
