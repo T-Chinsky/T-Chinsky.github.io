@@ -18,7 +18,7 @@ This page features full-length papers where I am one of the authors. For confere
 # Peer-Reviewed
 2026
 
-1. <ins>Genomic correlates of clinical CAR T cell activity</ins>. <em>Mark B. Leick, Baihe Sun, Filippo Birocchi, Kathleen M. E. Gallagher, Alexandra Bratt, Seunghun Han, Grace Martin, Harrison J. Silva, Rebecca C. Larson, **Tyler M. Chinsky**, Hoyin Chu, Christopher R. Reilly, Michael C. Kann, Bryan D. Choi, Sabrina Camp, Riaz Gillani, Merle Phillips, Tamina Kienka, Stefanie R. Bailey, Charlotte E. Graham, Max Jan, Nicholas S. Moore, Nora Horick, Justin Budka, Simone Filosto, Chad M. Williams, Ali Hosseini Rad, Rhine R. Shen, Eliezer Van Allen, Saud AlDubayan, and Marcela V. Maus</em>. <span style="color:blue">Science Immunology</span>, [doi:10.1126/sciimmunol.aef4134]( https://doi.org/10.1126/sciimmunol.aef4134) (Published July 2026)
+1. <ins>Genomic correlates of clinical CAR T cell activity</ins>. <em>Mark B. Leick, Baihe Sun, Filippo Birocchi, Kathleen M. E. Gallagher, Alexandra Bratt, Seunghun Han, Grace Martin, Harrison J. Silva, Rebecca C. Larson, **Tyler M. Chinsky**, Hoyin Chu, Christopher R. Reilly, Michael C. Kann, Bryan D. Choi, Sabrina Camp, Riaz Gillani, Merle Phillips, Tamina Kienka, Stefanie R. Bailey, Charlotte E. Graham, Max Jan, Nicholas S. Moore, Nora Horick, Justin Budka, Simone Filosto, Chad M. Williams, Ali Hosseini Rad, Rhine R. Shen, Eliezer Van Allen, Saud AlDubayan<sup>\*</sup>, and Marcela V. Maus<sup>\*</sup></em>. <span style="color:blue">Science Immunology</span>, [doi:10.1126/sciimmunol.aef4134]( https://doi.org/10.1126/sciimmunol.aef4134) (Published July 2026)
 
 2022
 
